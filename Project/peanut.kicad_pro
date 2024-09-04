@@ -67,12 +67,7 @@
         "hole_near_hole|131140712|84273765|096b58db-3c7c-4012-bbb8-eb13fee80857|54f9720c-eb63-48fb-ae46-274184610ec7",
         "shorting_items|121946363|89104166|4e6d88f5-a546-4785-9c02-1cb619091792|4c360877-3b04-4e81-82a3-0a42ebde4984",
         "shorting_items|123201027|89582853|4e6d88f5-a546-4785-9c02-1cb619091792|fd07ca8c-0d8c-42d6-a4b1-7ad78486be9c",
-        "shorting_items|123210793|89443195|4e6d88f5-a546-4785-9c02-1cb619091792|60946fc7-4e37-4932-ab02-144d4e20e7d9",
-        "solder_mask_bridge|121946363|89104166|4e6d88f5-a546-4785-9c02-1cb619091792|4c360877-3b04-4e81-82a3-0a42ebde4984",
-        "solder_mask_bridge|123090881|90727961|bd850196-e6ac-425c-b202-502b753fbfbd|4e6d88f5-a546-4785-9c02-1cb619091792",
-        "solder_mask_bridge|123201027|89582853|4e6d88f5-a546-4785-9c02-1cb619091792|fd07ca8c-0d8c-42d6-a4b1-7ad78486be9c",
-        "solder_mask_bridge|123210793|89443195|60946fc7-4e37-4932-ab02-144d4e20e7d9|4e6d88f5-a546-4785-9c02-1cb619091792",
-        "solder_mask_bridge|133226131|91436685|fa8181f0-566c-4fe1-ad42-468cbc5f8dbb|5ea5358f-d146-4f4c-880c-bc75c1919853"
+        "shorting_items|123210793|89443195|4e6d88f5-a546-4785-9c02-1cb619091792|60946fc7-4e37-4932-ab02-144d4e20e7d9"
       ],
       "meta": {
         "version": 2
@@ -462,7 +457,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "tsuru alice.kicad_pro",
+    "filename": "peanut.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -497,7 +492,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "Production",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "tsuru alice.step",
