@@ -12,6 +12,8 @@ alice like 30% inspired by littol and tsuru. Case, layout and concept by calumwr
 
 ![](https://github.com/calvin-mcd/peanut/blob/main/Images/top.png)
 ![](https://github.com/calvin-mcd/peanut/blob/main/Images/bottom.png)
+![](https://github.com/calvin-mcd/peanut/blob/main/Images/render.png)
+![](https://github.com/calvin-mcd/peanut/blob/main/Images/render2.png)
 
 ## Todo
 
