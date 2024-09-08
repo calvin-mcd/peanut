@@ -4773,7 +4773,7 @@
 			)
 		)
 	)
-	(global_label "ROW3"
+	(global_label "ROW2"
 		(shape input)
 		(at 31.75 87.63 180)
 		(fields_autoplaced yes)
@@ -7373,7 +7373,7 @@
 			)
 		)
 		(instances
-			(project "tsuru alice"
+			(project "peanut"
 				(path "/a7769bc2-6a19-42ef-91a1-19bc3a696dfe"
 					(page "2")
 				)

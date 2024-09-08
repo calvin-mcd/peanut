@@ -2355,7 +2355,7 @@
 			)
 		)
 	)
-	(global_label "ROW3"
+	(global_label "ROW2"
 		(shape input)
 		(at 25.4 80.01 180)
 		(fields_autoplaced yes)
