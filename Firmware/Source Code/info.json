@@ -4,6 +4,12 @@
     "maintainer": "Calvin0563",
     "bootloader": "stm32-dfu",
     "processor": "STM32F072",
+    "url": "",
+    "usb": {
+        "device_version": "1.0.0",
+        "pid": "0x0001",
+        "vid": "0x0563"
+    },
     "diode_direction": "COL2ROW",
     "features": {
         "bootmagic": true,
@@ -11,7 +17,8 @@
         "console": false,
         "extrakey": true,
         "mousekey": true,
-        "nkro": true
+        "nkro": true,
+        "encoder": true
     },
     "matrix_pins": {
         "cols": ["B10", "B2", "B1", "B0", "A7", "B8", "B7", "B6", "B5", "B4"],
@@ -21,12 +28,6 @@
       "rotary": [
         {"pin_a": "F0", "pin_b": "F1"}
       ]
-    },
-    "url": "",
-    "usb": {
-        "device_version": "1.0.0",
-        "pid": "0x0001",
-        "vid": "0x0563"
     },
     "layouts": {
         "LAYOUT": {
