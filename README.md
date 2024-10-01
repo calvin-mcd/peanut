@@ -12,7 +12,7 @@ alice like 30% inspired by littol and tsuru. Case design, layout and concept by 
 
 Case and plate files are included in the respective folder.
 
-The case requires m2 heat set inserts and 3mm silicone inserts for the feet.
+The case requires m2x3mm heat set inserts and 3mm silicone inserts for the feet.
 
 ## Firmware
 
