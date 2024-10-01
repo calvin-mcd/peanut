@@ -1,6 +1,6 @@
 # peanut
 
-alice like 30% inspired by littol and tsuru. Case, layout and concept by calumwri. Pcb by calvin0563
+alice like 30% inspired by littol and tsuru. Case design, layout and concept by calumwri. Pcb by calvin0563
 
 ## Layout
 
@@ -8,22 +8,32 @@ alice like 30% inspired by littol and tsuru. Case, layout and concept by calumwr
 
 [Link](http://www.keyboard-layout-editor.com/#/gists/5c7a74c8b3bbc1b4ac3f81c209dc5aab)
 
+## Case & Plate
+
+Case and plate files are included in the respective folder.
+
+The case requires m2 heat set inserts and 3mm silicone inserts for the feet.
+
+## Firmware
+
+Flash file and source code included in the respective folder.
+
 ## Pictures
 
-![](https://github.com/calvin-mcd/peanut/blob/main/Images/top.png)
-![](https://github.com/calvin-mcd/peanut/blob/main/Images/bottom.png)
+![](https://github.com/calvin-mcd/peanut/blob/main/Images/IMG_4146.jpg)
+![](https://github.com/calvin-mcd/peanut/blob/main/Images/IMG_4147.jpg)
 ![](https://github.com/calvin-mcd/peanut/blob/main/Images/render.png)
 ![](https://github.com/calvin-mcd/peanut/blob/main/Images/render2.png)
 
 ## Todo
 
-- [ ] order & test pcb
-- [ ] test case
-- [ ] create firmware
+- [X] order & test pcb
+- [X] test case
+- [X] create firmware
 
 ## Disclaimer
 
-Please note that this project is a work in progress with no guarantees of a working outcome. No-one involved in this project is responsible for any usage issues that may arise. However, feel free to edit, modify and otherwise utilise these files.
+This PCB has been fully tested and confirmed to work. The members of the PCB development team are however not liable if you end up with a non-functional pcb. Order at your own risk. Support will not be provided but pull requests will be reviewed and possibly accepted.
 
 ## License
 
