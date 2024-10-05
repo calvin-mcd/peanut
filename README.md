@@ -22,7 +22,7 @@ Flash file and source code included in the respective folder.
 
 ![](https://github.com/calvin-mcd/peanut/blob/main/Images/render.png)
 ![](https://github.com/calvin-mcd/peanut/blob/main/Images/render2.png)
-![](https://github.com/calvin-mcd/peanut/blob/main/Images/IMG_4146.jpg)
+![](https://github.com/calvin-mcd/peanut/blob/main/Images/IMG_4188.jpg)
 ![](https://github.com/calvin-mcd/peanut/blob/main/Images/IMG_4147.jpg)
 
 ## Todo
